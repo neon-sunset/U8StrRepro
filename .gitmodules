@@ -1,0 +1,3 @@
+[submodule "Impl"]
+	path = Impl
+	url = https://github.com/U8String/U8String
